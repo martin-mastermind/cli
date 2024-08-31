@@ -37,7 +37,7 @@
     "test:types": "tsc --noEmit"
   },
   "devDependencies": {
-    "@nuxt/eslint-config": "^0.5.3",
+    "@nuxt/eslint-config": "^0.5.4",
     "@nuxt/kit": "^3.13.0",
     "@nuxt/schema": "^3.13.0",
     "@nuxt/test-utils": "^3.14.1",
@@ -74,7 +74,7 @@
     "unbuild": "^2.0.0",
     "unplugin-purge-polyfills": "^0.0.5",
     "unws": "^0.2.4",
-    "vue-tsc": "^2.0.29",
+    "vue-tsc": "^2.1.4",
     "ws": "^8.18.0"
   },
   "optionalDependencies": {
